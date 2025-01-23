@@ -1,5 +1,13 @@
-<h2 align="left">- 👋 Hi, I’m Kenny<br>- 👀 I’m interested in getting into the working field after graduation (May 2025) <br>- 🌱 I’m currently finishing up my Computer Engineering degree at FSU<br>- 💞️ Currently working on building a Submersible Vechile Kit for Naval Surface Warfare Center<br>- 📫 How to reach me: lekenny1216@gmail.com<br>- 😄 Pronouns: He/His/Him<br>- ⚡ Fun fact: French fries are one of my favorite foods.</h2>
 
+# Hello World!, I'm Kenny, a Computer Engineer 👋🏼
+👀 I’m interested in getting into the working field after graduation (May 2025)<br>🌱 I’m currently finishing up my Computer Engineering degree at FSU<br>💞️ Currently working on building a Submersible Vechile Kit for Naval Surface Warfare Center <br>😄 Pronouns: He/His/Him <br> ⚡ Fun fact: French fries are one of my favorite foods.<br> 📫 How to reach me: lekenny1216@gmail.com
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kenken1216/Kenny/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kenken1216/Kenny/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Kenken1216/Kenny/output/github-snake.svg" />
+</picture>
 ###
 
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGU0MTJjbDZ2eTZyc3huYmh3dHB3bDNiOWs1ajFoMDY4dHFtOXBvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/znFOMXuHVkV36qzdbJ/giphy.gif"  />
